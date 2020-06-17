@@ -1,4 +1,4 @@
-# Análise de Dados Publicos OpendataSUS
+# Análise de Dados Públicos OpendataSUS
 
 Dataset: https://opendatasus.saude.gov.br/dataset/bd-srag-2020
 Arquivo: SRAG 16/06/2020
